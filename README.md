@@ -2,6 +2,22 @@
     <img alt="Be The Hero" title="#delicinha" src="frontend/src/assets/logo.svg" width="250px" />
 </h1>
 
+<h4 align="center">
+  🚀 Semana OmniStack 11.0
+</h4>
+
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lucasjeann/be-the-hero">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lucasjeann/be-the-hero">
+  
+  <a href="https://github.com/Rocketseat/semana-omnistack-10/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucasjeann/be-the-hero">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
+
 <p align="center">
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
